@@ -9,7 +9,14 @@
 }
 .deditor-edit {
   padding: 10px;
+  height: 300px;
+  overflow-y: auto;
 }
 .deditor-edit:focus {
   outline: none;
+}
+.deditor-header-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
