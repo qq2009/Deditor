@@ -1,0 +1,15 @@
+.deditor {
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+.deditor-header {
+  min-height: 32px;
+  background-color: rebeccapurple;
+  border-radius: 4px 4px 0px 0px;
+}
+.deditor-edit {
+  padding: 10px;
+}
+.deditor-edit:focus {
+  outline: none;
+}
